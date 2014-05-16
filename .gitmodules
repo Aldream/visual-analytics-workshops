@@ -1,0 +1,3 @@
+[submodule "instructions"]
+	path = instructions
+	url = https://github.com/mgrani/LODA-lecture-notes-on-data-analysis.git
