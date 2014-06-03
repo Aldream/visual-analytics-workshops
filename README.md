@@ -3,8 +3,8 @@ visual-analytics-workshops
 
 _Data Analysis, Clustering, Visualization, etc._
 
-Notes for the workshops of the *_Visual Analytics_* course at the Universität-Passau, Summer Semester 2014.
-Presented by *Dr. Michael Granitzer* (http://github.com/mgrani/LODA-lecture-notes-on-data-analysis)
+Notes for the workshops of the **_Visual Analytics_** course at the Universität-Passau, Summer Semester 2014.
+Presented by **Dr. Michael Granitzer** (http://github.com/mgrani/LODA-lecture-notes-on-data-analysis)
 
 ## 1st Workshop
 
