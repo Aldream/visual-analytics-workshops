@@ -14,3 +14,8 @@ Presented by **Dr. Michael Granitzer** (http://github.com/mgrani/LODA-lecture-no
 
 - Introduction to Numpy, Scipy, Mathplotlib, Panda libraries
 - Machine Learning and Data Mining
+
+## 3rd Workshop
+
+- Scientific Programming in Python
+- Machine Learning and Data Mining 
